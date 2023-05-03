@@ -12,3 +12,4 @@ let me do it
 wow u can do it
 hello
 what
+print ("hello")
